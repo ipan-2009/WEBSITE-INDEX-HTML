@@ -126,7 +126,7 @@
   </header>
 
   <section id="beranda" class="hero">
-   <img src="poto.JPG" alt="profile-irfan" style="width: 200px; height: 200px; border-radius: 100%; object-fit: cover;">
+   <img src="poto.jpg" alt="profile-irfan" style="width: 200px; height: 200px; border-radius: 100%; object-fit: cover;">
     <h1>Halo, saya Irfan dwi A.!</h1>
     <p>Saya adalah web developer yang fokus pada front-end development dan desain UI/UX.</p>
   </section>
